@@ -1,1 +1,1 @@
-This repo holds a task on git usage
+#!/bin/bash /n This is a task on git usage
