@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 my_dir
+chmod drwxr-x--x my_dir
