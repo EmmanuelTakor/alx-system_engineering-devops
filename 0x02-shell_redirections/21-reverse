@@ -1,2 +1,2 @@
-hsab/nib/!#
-82817.2 ohce
+#!/bin/bash
+echo "string" | rev
