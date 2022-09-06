@@ -1,2 +1,3 @@
 #!/bin/bash
-NUM=1.5
+printf "%.2f
+" $NUM
