@@ -1,2 +1,4 @@
 #!/bin/bash
-echo NUM=28.3
+echo printf "%.2f
+" $NUM
+
