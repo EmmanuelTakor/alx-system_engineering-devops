@@ -1,2 +1,2 @@
 #!/bin/bash
- rgr A c -R Z e
+tr "A" "Z" | tr "c" "e"

@@ -1,2 +1,2 @@
 #!/bin/bash
-sort repeat_lines.txt | uniq -u
+sort | uniq -u
